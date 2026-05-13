@@ -4,17 +4,19 @@ A real-time AI-powered desktop application that detects and analyzes student emo
 
 ---
 
-## What It Does
+## Screenshots
 
-EduSense AI uses your webcam to detect multiple students in a classroom and analyze their facial emotions in real time. The system identifies 7 emotions for each detected face simultaneously and displays live results through an interactive bar chart.
+![Welcome Screen](https://raw.githubusercontent.com/ABAS-23/EduSense-AI/main/EduSense-AI/screenshots/welcome.png)
+
+![Dashboard](https://raw.githubusercontent.com/ABAS-23/EduSense-AI/main/EduSense-AI/screenshots/dashboard.png)
+
+![Live Analysis](https://raw.githubusercontent.com/ABAS-23/EduSense-AI/main/EduSense-AI/screenshots/analysis.png)
 
 ---
 
-## Screenshots
+## What It Does
 
-| Welcome Screen | Dashboard | Live Analysis |
-|:-:|:-:|:-:|
-| ![welcome](screenshots/welcome.png) | ![dashboard](screenshots/dashboard.png) | ![analysis](screenshots/analysis.png) |
+EduSense AI uses your webcam to detect multiple students in a classroom and analyze their facial emotions in real time. The system identifies 7 emotions for each detected face simultaneously and displays live results through an interactive bar chart.
 
 ---
 
